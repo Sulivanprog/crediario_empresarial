@@ -112,5 +112,7 @@ Recomendações:
 
 👨‍💻 Autor
 
+Sulivan Batista dos Santos
+
 Desenvolvido para automação de geração de boletos e gestão de crediários.
 
